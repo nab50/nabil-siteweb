@@ -38,7 +38,7 @@ export default function Home() {
             <div className="inner">
               <p className="contac">
                 Tel : 0689904790 <br />
-                Horaires d'ouverture : 7j/7 de 9h-23h
+                Horaires d&apos;ouverture : 7j/7 de 9h-23h
               </p>
             </div>
           </section>
@@ -49,7 +49,7 @@ export default function Home() {
               <div className="inner">
                 <a href="#" className="image">
                   <img data-aos="zoom-in" data-aos-duration="1000"
-                    src="images/réparation d'un ordinateur.jpg"
+                    src="images/réparation d&apos;un ordinateur.jpg"
                     alt="Réparation et dépannage Informatique"
                   />
                 </a>
@@ -107,7 +107,7 @@ export default function Home() {
                   En plus de nos services de réparation sur place, nous offrons
                   également une assistance à distance pour les problèmes
                   informatiques les plus courants. Grâce à notre service
-                  d'assistance à distance, vous pouvez obtenir une aide rapide
+                  d&apos;assistance à distance, vous pouvez obtenir une aide rapide
                   et efficace sans même avoir à quitter votre domicile. Nous
                   résolvons les problèmes informatiques directement sur votre
                   ordinateur, en temps réel.
@@ -133,7 +133,7 @@ export default function Home() {
                     peuvent être précieuses et nous mettons tout en œuvre pour
                     vous aider à les récupérer. Nous déployons les dernières
                     technologies pour tenter de récupérer vos données perdues,
-                    qu'il s'agisse de photos, de documents, de musique ou de
+                    qu&apos;il s&apos;agisse de photos, de documents, de musique ou de
                     tout autre type de fichiers. Nous travaillons sur tous les
                     types de supports de stockage, tels que les disques durs,
                     les clés USB, les cartes mémoire, etc.
@@ -156,10 +156,10 @@ export default function Home() {
                     achat et vente de matériels informatique
                   </h2>
                   <p>
-                    Nous offrons également des options d'achat et de vente de
+                    Nous offrons également des options d&apos;achat et de vente de
                     matériel informatique de haute qualité. Nous proposons une
-                    large gamme d'ordinateurs, de périphériques de stockage
-                    (SSD-HDD), de composants et d'autres produits informatiques
+                    large gamme d&apos;ordinateurs, de périphériques de stockage
+                    (SSD-HDD), de composants et d&apos;autres produits informatiques
                     pour répondre à tous vos besoins au meilleur prix.
                   </p>
                   {/* <a href="#" class="special">Learn more</a> */}
@@ -178,7 +178,7 @@ export default function Home() {
                 <div className="content">
                   <h2 className="major">création de sites web</h2>
                   <p>
-                    Nous comprenons à quel point il est important d'avoir un
+                    Nous comprenons à quel point il est important d&apos;avoir un
                     site web professionnel et fonctionnel pour votre entreprise
                     ou votre organisation.Nous travaillerons avec vous pour
                     comprendre vos objectifs et créer un site web qui vous
@@ -209,7 +209,7 @@ export default function Home() {
                     Nous savons à quel point il peut être difficile de trouver
                     le bon logiciel pour répondre à vos besoins, et nous sommes
                     là pour vous aider. Nous installons une large gamme de
-                    logiciels, notamment des systèmes d'exploitation, des suites
+                    logiciels, notamment des systèmes d&apos;exploitation, des suites
                     de productivité, des logiciels de gestion de la sécurité et
                     de nombreux autres. Nous pouvons également vous aider à
                     trouver le bon logiciel pour répondre à vos besoins
@@ -282,7 +282,7 @@ export default function Home() {
             <div className="inner">
               <h2 className="major">Contactez Nous</h2>
               <p>
-                N'hésitez pas à nous contacter pour toute demnde de réparation
+                N&apos;hésitez pas à nous contacter pour toute demnde de réparation
                 ou de dépannage. Nous sommes à votre disposition pour répondre à
                 toutes vos questions et vous fournir le meilleur service
                 possible.
